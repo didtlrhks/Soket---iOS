@@ -14,6 +14,7 @@
 		8E15C8C22B662A3D001468C7 /* Socket___iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15C8C12B662A3D001468C7 /* Socket___iOSTests.swift */; };
 		8E15C8CC2B662A3D001468C7 /* Socket___iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15C8CB2B662A3D001468C7 /* Socket___iOSUITests.swift */; };
 		8E15C8CE2B662A3D001468C7 /* Socket___iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15C8CD2B662A3D001468C7 /* Socket___iOSUITestsLaunchTests.swift */; };
+		8E15C8DB2B662CC0001468C7 /* WebSocketManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E15C8DA2B662CC0001468C7 /* WebSocketManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8E15C8C72B662A3D001468C7 /* Socket - iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Socket - iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E15C8CB2B662A3D001468C7 /* Socket___iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSUITests.swift"; sourceTree = "<group>"; };
 		8E15C8CD2B662A3D001468C7 /* Socket___iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSUITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		8E15C8DA2B662CC0001468C7 /* WebSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebSocketManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				8E15C8B02B662A37001468C7 /* Socket___iOSApp.swift */,
 				8E15C8B22B662A37001468C7 /* ContentView.swift */,
+				8E15C8DA2B662CC0001468C7 /* WebSocketManager.swift */,
 				8E15C8B42B662A3D001468C7 /* Assets.xcassets */,
 				8E15C8B62B662A3D001468C7 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				8E15C8B32B662A37001468C7 /* ContentView.swift in Sources */,
 				8E15C8B12B662A37001468C7 /* Socket___iOSApp.swift in Sources */,
+				8E15C8DB2B662CC0001468C7 /* WebSocketManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
