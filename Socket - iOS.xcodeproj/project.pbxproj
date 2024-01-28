@@ -36,15 +36,15 @@
 
 /* Begin PBXFileReference section */
 		8E15C8AD2B662A37001468C7 /* Socket - iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Socket - iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E15C8B02B662A37001468C7 /* Socket___iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSApp.swift"; sourceTree = "<group>"; };
+		8E15C8B02B662A37001468C7 /* Socket___iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket___iOSApp.swift; sourceTree = "<group>"; };
 		8E15C8B22B662A37001468C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8E15C8B42B662A3D001468C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E15C8B72B662A3D001468C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E15C8BD2B662A3D001468C7 /* Socket - iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Socket - iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E15C8C12B662A3D001468C7 /* Socket___iOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSTests.swift"; sourceTree = "<group>"; };
+		8E15C8C12B662A3D001468C7 /* Socket___iOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket___iOSTests.swift; sourceTree = "<group>"; };
 		8E15C8C72B662A3D001468C7 /* Socket - iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Socket - iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E15C8CB2B662A3D001468C7 /* Socket___iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSUITests.swift"; sourceTree = "<group>"; };
-		8E15C8CD2B662A3D001468C7 /* Socket___iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Socket___iOSUITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		8E15C8CB2B662A3D001468C7 /* Socket___iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket___iOSUITests.swift; sourceTree = "<group>"; };
+		8E15C8CD2B662A3D001468C7 /* Socket___iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket___iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8E15C8DA2B662CC0001468C7 /* WebSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebSocketManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
